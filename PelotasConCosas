@@ -1,66 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="LA 1" tvg-name="ES: LA 1 FHD" tvg-logo="https://miguia.tv/channels/big_157.png" group-title="ES   MOVISTAR+",ES: LA 1 FHD
-http://887182625605321276.of1030ok.xyz:80/play/jose3629F/ASDT61254QE/321276.ts
-#EXTINF:-1 tvg-id="LA 1" tvg-name="ES: LA 1 HD" tvg-logo="https://logo.nero-iptv.click//lagi/ES_ESPANE_TDT/HD_LA_1.png" group-title="ES   MOVISTAR+",ES: LA 1 HD
-http://887182625605321277.of1030ok.xyz:80/play/jose3629F/ASDT61254QE/321277.ts
-#EXTINF:-1 tvg-id="LA 1" tvg-name="ES: LA 1 SD" tvg-logo="https://logo.nero-iptv.click//lagi/ES_ESPANE_TDT/SD_LA_1.png" group-title="ES   MOVISTAR+",ES: LA 1 SD
-http://887182625605321278.of1030ok.xyz:80/play/jose3629F/ASDT61254QE/321278.ts
-#EXTINF:-1 tvg-id="Condavision.TV" tvg-name="ES: LA 2 FHD" tvg-logo="https://logo.nero-iptv.click//lagi/ES_ESPANE_TDT/HD_LA_2.png" group-title="ES   MOVISTAR+",ES: LA 2 FHD
-http://887182625605321279.of1030ok.xyz:80/play/jose3629F/ASDT61254QE/321279.ts
-#EXTINF:-1 tvg-id="la2.es" tvg-name="ES: LA 2 HD" tvg-logo="https://miguia.tv/channels/big_99.png" group-title="ES   MOVISTAR+",ES: LA 2 HD
-http://887182625605321280.of1030ok.xyz:80/play/jose3629F/ASDT61254QE/321280.ts
-#EXTINF:-1 tvg-id="la2.es" tvg-name="ES: LA 2 SD" tvg-logo="https://logo.nero-iptv.click//lagi/ES_ESPANE_TDT/SD_LA_2.png" group-title="ES   MOVISTAR+",ES: LA 2 SD
-http://887182625605321281.of1030ok.xyz:80/play/jose3629F/ASDT61254QE/321281.ts
-#EXTINF:-1 tvg-id="Condavision.TV" tvg-name="ES: ANTENA 3 FHD" tvg-logo="https://miguia.tv/channels/big_10.png" group-title="ES   MOVISTAR+",ES: ANTENA 3 FHD
-http://887182625605321105.of1030ok.xyz:80/play/jose3629F/ASDT61254QE/321105.ts
-#EXTINF:-1 tvg-id="LA 1" tvg-name="ES: ANTENA 3 HD" tvg-logo="https://miguia.tv/channels/big_10.png" group-title="ES   MOVISTAR+",ES: ANTENA 3 HD
-http://887182625605321106.of1030ok.xyz:80/play/jose3629F/ASDT61254QE/321106.ts
-#EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-name="ES: ANTENA 3 SD" tvg-logo="https://logo.nero-iptv.click//lagi/ES_ESPANE_TDT/SD_ANTENA_3.png" group-title="ES   MOVISTAR+",ES: ANTENA 3 SD
-http://887182625605321107.of1030ok.xyz:80/play/jose3629F/ASDT61254QE/321107.ts
-#EXTINF:-1 tvg-id="TELECINCO FHD" tvg-name="ES: TELECINCO FHD" tvg-logo="https://miguia.tv/channels/big_161.png" group-title="ES   MOVISTAR+",ES: TELECINCO FHD
-http://887182625605321429.of1030ok.xyz:80/play/jose3629F/ASDT61254QE/321429.ts
-#EXTINF:-1 tvg-id="Condavision.TV" tvg-name="ES: TELECINCO HD" tvg-logo="https://logo.nero-iptv.click//lagi/ES_ESPANE_TDT/HD_TELECINCO.png" group-title="ES   MOVISTAR+",ES: TELECINCO HD
-http://887182625605321430.of1030ok.xyz:80/play/jose3629F/ASDT61254QE/321430.ts
-#EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES: TELECINCO SD" tvg-logo="https://logo.nero-iptv.click//lagi/ES_ESPANE_TDT/SD_TELECINCO.png" group-title="ES   MOVISTAR+",ES: TELECINCO SD
-http://887182625605321431.of1030ok.xyz:80/play/jose3629F/ASDT61254QE/321431.ts
-#EXTINF:-1 tvg-id="Condavision.TV" tvg-name="ES: CUATRO FHD" tvg-logo="https://miguia.tv/channels/big_65.png" group-title="ES   MOVISTAR+",ES: CUATRO FHD
-http://887182625605321196.of1030ok.xyz:80/play/jose3629F/ASDT61254QE/321196.ts
-#EXTINF:-1 tvg-id="CUATRO HD" tvg-name="ES: CUATRO HD" tvg-logo="https://logo.nero-iptv.click//lagi/ES_ESPANE_TDT/SD_QUATRO.png" group-title="ES   MOVISTAR+",ES: CUATRO HD
-http://887182625605321197.of1030ok.xyz:80/play/jose3629F/ASDT61254QE/321197.ts
-#EXTINF:-1 tvg-id="cuatro.es" tvg-name="ES: CUATRO SD" tvg-logo="https://logo.nero-iptv.click//lagi/ES_ESPANE_TDT/FHD_QUATRO.png" group-title="ES   MOVISTAR+",ES: CUATRO SD
-http://887182625605321198.of1030ok.xyz:80/play/jose3629F/ASDT61254QE/321198.ts
-#EXTINF:-1 tvg-id="BABY TV" tvg-name="ES: BABY TV SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/BABY" group-title="ES   MOVISTAR+",ES: BABY TV SD
-http://887182625605321122.of1030ok.xyz:80/play/jose3629F/ASDT61254QE/321122.ts
-#EXTINF:-1 tvg-id="LA 1" tvg-name="ES: AMC FHD" tvg-logo="https://logo.nero-iptv.click//lagi/ES_ESPANE_CINEMA/AMC_FHD.png" group-title="ES   MOVISTAR+",ES: AMC FHD
-http://887182625605321102.of1030ok.xyz:80/play/jose3629F/ASDT61254QE/321102.ts
-#EXTINF:-1 tvg-id="LA 1" tvg-name="ES: AMC HD" tvg-logo="https://logo.nero-iptv.click//lagi/ES_ESPANE_CINEMA/AMC_HD.png" group-title="ES   MOVISTAR+",ES: AMC HD
-http://887182625605321103.of1030ok.xyz:80/play/jose3629F/ASDT61254QE/321103.ts
-#EXTINF:-1 tvg-id="amc.es" tvg-name="ES: AMC SD" tvg-logo="https://logo.nero-iptv.click//lagi/ES_ESPANE_CINEMA/AMC_SD.png" group-title="ES   MOVISTAR+",ES: AMC SD
-http://887182625605321104.of1030ok.xyz:80/play/jose3629F/ASDT61254QE/321104.ts
-#EXTINF:-1 tvg-id="LA 1" tvg-name="ES: M+ ORIGINALES FHD" tvg-logo="https://logo.nero-iptv.click//lagi/ES_ESPANE_CINEMA/M+_ESTRENOS_HD.png" group-title="ES   MOVISTAR+",ES: M+ ORIGINALES FHD
-http://887182625605321068.of1030ok.xyz:80/play/jose3629F/ASDT61254QE/321068.ts
-#EXTINF:-1 tvg-id="#0 HD" tvg-name="ES: M+ ORIGINALES HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MORIG" group-title="ES   MOVISTAR+",ES: M+ ORIGINALES HD
-http://887182625605321069.of1030ok.xyz:80/play/jose3629F/ASDT61254QE/321069.ts
-#EXTINF:-1 tvg-id="#0 HD" tvg-name="ES: M+ ORIGINALES SD" tvg-logo="https://logo.nero-iptv.click//lagi/ES_ESPANE_CINEMA/M+_%230_SD.png" group-title="ES   MOVISTAR+",ES: M+ ORIGINALES SD
-http://887182625605321070.of1030ok.xyz:80/play/jose3629F/ASDT61254QE/321070.ts
-#EXTINF:-1 tvg-id="Condavision.TV" tvg-name="ES: #VAMOS HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/VAMOSD" group-title="ES DEPORTES",ES: #VAMOS HD
-http://887182625605321072.of1030ok.xyz:80/play/jose3629F/ASDT61254QE/321072.ts
-#EXTINF:-1 tvg-id="Condavision.TV" tvg-name="ES: #VAMOS SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/VAMOSD" group-title="ES DEPORTES",ES: #VAMOS SD
-http://887182625605321073.of1030ok.xyz:80/play/jose3629F/ASDT61254QE/321073.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: ETB 3 SD" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="ES AUTONOMICOS",ES: ETB 3 SD
-http://887182625605165332.of1030ok.xyz:80/play/jose3629F/ASDT61254QE/165332.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: ETB 4 SD" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="ES AUTONOMICOS",ES: ETB 4 SD
-http://887182625605165333.of1030ok.xyz:80/play/jose3629F/ASDT61254QE/165333.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: LA 7 HD" tvg-logo="http://graph.facebook.com/rtvcyl/picture?width=320&height=320" group-title="ES AUTONOMICOS",ES: LA 7 HD
-http://887182625605165298.of1030ok.xyz:80/play/jose3629F/ASDT61254QE/165298.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: MELILLA TV HD" tvg-logo="http://graph.facebook.com/TelevisionMelilla/picture?width=320&height=320" group-title="ES AUTONOMICOS",ES: MELILLA TV HD
-http://887182625605165328.of1030ok.xyz:80/play/jose3629F/ASDT61254QE/165328.ts
 #EXTINF:-1 tvg-id="LA 1" tvg-name="ES: DAZN FORMULA 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="ES  DAZN F1",ES: DAZN FORMULA 1 SD
 http://887182625605165257.of1030ok.xyz:80/play/jose3629F/ASDT61254QE/165257.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: RTVCE FHD" tvg-logo="http://graph.facebook.com/RTVCE/picture?width=320&height=320" group-title="ES AUTONOMICOS",ES: RTVCE FHD
-http://887182625605165312.of1030ok.xyz:80/play/jose3629F/ASDT61254QE/165312.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: TELEMADRID SD" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="ES AUTONOMICOS",ES: TELEMADRID SD
-http://887182625605165351.of1030ok.xyz:80/play/jose3629F/ASDT61254QE/165351.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES FHD
 http://887182625605246282.of1030ok.xyz:80/play/jose3629F/ASDT61254QE/246282.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES HD
