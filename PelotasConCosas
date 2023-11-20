@@ -471,6 +471,12 @@ http://887182625605558671.of1030ok.xyz:80/play/jose3629F/ASDT61254QE/558671.ts
 http://887182625605558672.of1030ok.xyz:80/play/jose3629F/ASDT61254QE/558672.ts
 #EXTINF:-1 tvg-id="toros.es" tvg-name="ES: ONETORO TV SD" tvg-logo="https://up6.cc/2023/08/16908979245241.png" group-title="ES MUNDOTORO PPV",ES: ONETORO TV SD
 http://887182625605558673.of1030ok.xyz:80/play/jose3629F/ASDT61254QE/558673.ts
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: TOROS FHD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_782D_428_1_C00000_0_0_0.png" group-title="ES MUNDOTORO PPV",ES: TOROS FHD
+http://887182625605321445.of1030ok.xyz:80/play/jose3629F/ASDT61254QE/321445.ts
+#EXTINF:-1 tvg-id="toros.es" tvg-name="ES: TOROS HD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_782D_428_1_C00000_0_0_0.png" group-title="ES MUNDOTORO PPV",ES: TOROS HD
+http://887182625605321446.of1030ok.xyz:80/play/jose3629F/ASDT61254QE/321446.ts
+#EXTINF:-1 tvg-id="TOROS" tvg-name="ES: TOROS SD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_782D_428_1_C00000_0_0_0.png" group-title="ES MUNDOTORO PPV",ES: TOROS SD
+http://887182625605321449.of1030ok.xyz:80/play/jose3629F/ASDT61254QE/321449.ts
 #EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="ES: M+ CINE FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" group-title="ES   MOVISTAR+",ES: M+ CINE FHD
 http://887182625605559513.of1030ok.xyz:80/play/jose3629F/ASDT61254QE/559513.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: M+ CINE HD" tvg-logo="http://fireott.one:2052/images/21dde05901f52a17cbb680ee4757a762.png" group-title="ES   MOVISTAR+",ES: M+ CINE HD
